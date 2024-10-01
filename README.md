@@ -1,6 +1,6 @@
 # Todo App
 
-![Todo App Poster](/vite-project/src/assets/thumbnail.png) <!-- Replace with the actual path to your poster image -->
+![Todo App Poster](./public/thumbnail.png)
 
 ### A simple and intuitive Todo application built with React,
 
